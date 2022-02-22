@@ -1,6 +1,6 @@
 //PRIMER CONTRATO
 //CONTADOR
-pragma solidity ^0.8.12;
+pragma solidity ^0.6.0;
 
 contract Contador {
     uint public count = 1;
